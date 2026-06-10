@@ -190,7 +190,7 @@ page = st.sidebar.radio(
 )
 st.sidebar.markdown("---")
 st.sidebar.markdown("### Dataset")
-st.sidebar.markdown("Medical Cost Personal Dataset")
+st.sidebar.markdown("Medical Insurance Cost")
 st.sidebar.markdown("---")
 st.sidebar.caption("What Drives Medical Insurance Costs?")
 
